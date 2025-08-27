@@ -3,7 +3,7 @@
 A simple and modern **Task Manager App** built using **HTML, CSS, JavaScript, and Vue.js**.  
 The app helps users stay productive by allowing them to **add, mark, delete, and filter tasks**.  
 
-🌍 **Live Demo**: [Task Manager on Netlify](https://celadon-fox-45edab.netlify.app/)  
+🌍 **Live Demo**: [Task Manager on Netlify](https://taskmanager343.netlify.app/)  
 
 ---
 
